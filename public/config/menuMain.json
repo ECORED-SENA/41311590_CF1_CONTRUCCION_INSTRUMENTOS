@@ -5,14 +5,7 @@
     "title": "Volver al inicio",
     "path": "index.html"
   },  
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "Introduccion",
-    "title": "Introducción",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/intro.html"
-  },  
+ 
   { 
     "id": 2,
     "icon": "fa fa-file-text-o",
