@@ -1,6 +1,6 @@
 .header-arrow {
   position: relative;
-  background-color: $brand-color-secondary;
+  background-color: #4CB1F7;
   padding: 2rem;
 
   h1,h2,h3 {
@@ -21,7 +21,7 @@
     transition: all .3s ease;
     border-style: solid;
     border-width: 25px 25px 0px 25px;
-    border-color:  $brand-color-secondary transparent transparent transparent;
+    border-color:  #4CB1F7 transparent transparent transparent;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
